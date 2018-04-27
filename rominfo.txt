@@ -1,0 +1,7 @@
+This is the info for the last game you ran.
+
+File: seiken3.smc Header: Yes
+SeikenDensetsu3e          TYPE:NORMAL   
+INTERLEAVED:No               CHKSUM:FAIL
+VIDEO:NTSC    BANK:Hi     CRC32:FE07123A
+BAD ROM                                 
